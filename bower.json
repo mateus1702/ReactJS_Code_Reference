@@ -1,0 +1,14 @@
+{
+  "name": "ui_react",
+  "description": "react user interface bootstrap",
+  "main": "",
+  "authors": [
+    ""
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "3.3.x",
+    "jquery": "2.2.x"
+  }
+}
